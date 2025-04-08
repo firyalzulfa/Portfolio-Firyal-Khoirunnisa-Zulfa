@@ -1,6 +1,6 @@
-### Nama : Firyal Khoirunnisa Zulfa
-### NPM  : 2310631250017
-### Kelas : 4c - Sistem Informasi
+Nama : Firyal Khoirunnisa Zulfa
+NPM  : 2310631250017
+Kelas : 4C - Sistem Informasi
 
 ---
 
