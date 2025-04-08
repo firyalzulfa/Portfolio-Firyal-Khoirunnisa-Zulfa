@@ -4,7 +4,7 @@
 
 ---
 
-## Penjelasan Proyek
+# Penjelasan Proyek
 
 ### `index.html`
 Struktur halaman yang terdiri dari beberapa section:
@@ -28,7 +28,7 @@ Struktur halaman yang terdiri dari beberapa section:
 
 ---
 
-## 🧱 Struktur Proyek
+## Struktur Proyek
 
 - ├── index.html           # File utama yang berisi struktur halaman
 - ├── style.css            # File CSS untuk styling dan layout
@@ -39,7 +39,7 @@ Struktur halaman yang terdiri dari beberapa section:
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **HTML5**
 - **CSS3**
@@ -50,7 +50,7 @@ Struktur halaman yang terdiri dari beberapa section:
 
 ---
 
-## 📱 Responsif
+## Responsif
 
 Berbagai resolusi layar yang digunakan:
 - Mobile (≤ 576px)
