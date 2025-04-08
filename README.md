@@ -1,6 +1,6 @@
-Nama : Firyal Khoirunnisa Zulfa
-NPM  : 2310631250017
-Kelas : 4C - Sistem Informasi
+### Nama  : Firyal Khoirunnisa Zulfa
+### NPM   : 2310631250017
+### Kelas : 4C - Sistem Informasi
 
 ---
 
@@ -11,7 +11,7 @@ Struktur halaman yang terdiri dari beberapa section:
 - `nav` → Navigasi (Home, About, Services & Experiences, Portfolio, Contact) [Navbar]
 - `header` → Nama, deskripsi singkat, dan contact email yang bisa langsung diakses
 - `about` → Tentang diri saya dan CV yang bisa langsung diakses [Halaman Beranda]
-- `services` → Layanan/ skill dan pengalaman [Halaman Prestasi]
+- `services & experiences` → Layanan/ skill dan pengalaman [Halaman Prestasi]
 - `portfolio` → Showcase project (Gambar, Link prototype, Penjelasan singkat project) [Halaman Portfolio]
 - `contact` → Link ke media sosial dan tombol ke home [Tombol Navigasi]
 
