@@ -16,14 +16,12 @@ Struktur halaman yang terdiri dari beberapa section:
 - `contact` → Link ke media sosial dan tombol ke home [Tombol Navigasi]
 
 ### `style.css`
-Berisi pengaturan tampilan:
 - Menggunakan **CSS Custom Properties (variabel)** untuk warna dan ukuran
 - Desain **responsif** dengan media queries (`@media`)
 - Efek hover dan animasi menggunakan `@keyframes`
 - Menggunakan **gradient background** dan **box-shadow**
 
 ### `script.js`
-Berisi logika JavaScript:
 - Menangani toggle menu hamburger
 - Mengaktifkan animasi **ScrollReveal** saat elemen muncul di layar
 - Menutup menu otomatis saat link diklik
@@ -54,7 +52,7 @@ Berisi logika JavaScript:
 
 ## 📱 Responsif
 
-Website ini mendukung berbagai resolusi layar:
+Berbagai resolusi layar yang digunakan:
 - Mobile (≤ 576px)
 - Tablet (≤ 768px)
 - Desktop (> 768px)
