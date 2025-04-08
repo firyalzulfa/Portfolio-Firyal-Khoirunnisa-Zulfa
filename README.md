@@ -1,6 +1,6 @@
-# Penjelasan Proyek
+## Penjelasan Proyek
 
-# index.html
+### `index.html`
 Struktur halaman yang terdiri dari beberapa section:
 - `nav` → Navigasi (Home, About, Services & Experiences, Portfolio, Contact) [Navbar]
 - `header` → Nama, deskripsi singkat, dan contact email yang bisa langsung diakses
@@ -24,6 +24,17 @@ Berisi logika JavaScript:
 
 ---
 
+## 🧱 Struktur Proyek
+
+├── index.html           # File utama yang berisi struktur halaman
+├── style.css            # File CSS untuk styling dan layout
+├── script.js            # File JavaScript untuk interaktivitas
+├── README.md            # Dokumentasi proyek
+└── assets/
+    ├── images/          # Folder gambar
+
+---
+
 ## 🛠️ Teknologi yang Digunakan
 
 - **HTML5**
@@ -43,8 +54,3 @@ Website ini mendukung berbagai resolusi layar:
 - Desktop (> 768px)
 
 ---
-
-## 📌 Demo
-
-Jika kamu host project ini (misalnya di GitHub Pages), kamu bisa tambahkan link di sini:
-
