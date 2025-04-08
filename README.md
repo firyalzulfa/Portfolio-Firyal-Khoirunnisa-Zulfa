@@ -1,3 +1,9 @@
+### Nama : Firyal Khoirunnisa Zulfa
+### NPM  : 2310631250017
+### Kelas : 4c - Sistem Informasi
+
+---
+
 ## Penjelasan Proyek
 
 ### `index.html`
@@ -26,12 +32,12 @@ Berisi logika JavaScript:
 
 ## 🧱 Struktur Proyek
 
-├── index.html           # File utama yang berisi struktur halaman
-├── style.css            # File CSS untuk styling dan layout
-├── script.js            # File JavaScript untuk interaktivitas
-├── README.md            # Dokumentasi proyek
-└── assets/
-    ├── images/          # Folder gambar
+- ├── index.html           # File utama yang berisi struktur halaman
+- ├── style.css            # File CSS untuk styling dan layout
+- ├── script.js            # File JavaScript untuk interaktivitas
+- ├── README.md            # Dokumentasi proyek
+- └── assets/
+    - ├── images/          # Folder gambar
 
 ---
 
